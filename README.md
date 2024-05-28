@@ -3,6 +3,14 @@ Parses through an input.csv to generate all instances an ipv4/6 address was ment
 
 ## Usage
 Rename your file to input.csv, have it in the same directory, and let it rip!
+``` 
+git clone https://github.com/BurritoSuicide/ipv_extractor.git
+cd ipv_extractor
+```
+Input your file and rename to input.csv, then
+```
+python3 ipv_extractor.py
+```
 
 ## Notes
 Created using Google IDX, only ipv_extractor.py is needed to run.
