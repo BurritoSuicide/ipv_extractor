@@ -1,4 +1,4 @@
-# IPv Extractor
+# IPv[x]tractor
 Parses through an input.csv to generate all instances an ipv4/6 address was mentioned. Should work on any csv file. Does NOT produce headers, will be implemented in a later version... Probably.
 
 ## Notes
